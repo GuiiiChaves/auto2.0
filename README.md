@@ -34,7 +34,5 @@ No Windows:
 
 venv\Scripts\activate```
 
-## Autor
-Este script foi desenvolvido por Guilherme Chaves Sena. 
 
 
