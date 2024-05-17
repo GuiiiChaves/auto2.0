@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 
-## CONFIGURAÇÃO DO AMBIENTE VIRTUAL:
+## Configuração do Ambiente Virtual:
 
 Para isolar o ambiente e evitar conflitos de dependências, é recomendável criar um ambiente virtual. Você pode fazer isso executando os seguintes comandos:
 
@@ -33,5 +33,8 @@ No Windows:
 ```bash
 
 venv\Scripts\activate```
+
+## Autor
+Este script foi desenvolvido por Guilherme Chaves Sena. 
 
 
